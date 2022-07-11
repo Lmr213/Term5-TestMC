@@ -6,4 +6,4 @@ I put two csv files in a folder called Data, user can download these two csv fil
 Set your own path of the downloaded two files you are going to compare in the main method
 
 ### Set the path and name of the output csv file in generate_csv_file method and Run MyClass.java
-after running MyClass.java we are able to get the output csv file in the the place you setted(for me it is stored in the Output folder)
+after running MyClass.java we are able to get the output csv file stored in the the place you setted(for me it is stored in the Output folder)
