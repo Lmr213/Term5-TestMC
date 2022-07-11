@@ -89,7 +89,7 @@ public class MyClass {
         }
 
         String fileName = "compare_output.csv";
-        String filePath = "/Users/lmr/Desktop/";
+        String filePath = "/Users/lmr/Desktop/Output/";
 
         File csvFile = null;
         BufferedWriter csvWriter = null;
