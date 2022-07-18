@@ -6,7 +6,7 @@
 
 
 
-### 1.At least one of the input files are invalid:
+### 1. At least one of the input files are invalid:
 
 check whether the system can handle and throw the error if the input files are invalid
 
@@ -20,7 +20,7 @@ Both two input files are invalid (eg: invalid file name)
 
 
 
-### 2.At least one of the input csv files has no entry:
+### 2. At least one of the input csv files has no entry:
 
 check if one of them is an empty csv file (has no entry) the program will output the csv file which is exactly same as the non empty one and if both of them are empty, the output will also be an empty csv file.
 
@@ -34,7 +34,7 @@ Both of the two input files are empty
 
 
 
-### 3.Two input csv files have different number of entries:
+### 3. Two input csv files have different number of entries:
 
 check if the two files have not equal length, there might exist some indexing error in the code which can result in the crash of the whole program
 
@@ -76,7 +76,7 @@ Both of the two files have some null values (more than one).
 
 
 
-### 6.Exist at least one entry which the type of the data in a certain filed are not matched with the corresponding already defined data type.
+### 6. Exist at least one entry which the type of the data in a certain filed are not matched with the corresponding already defined data type.
 
 If there exist some data of the wrong data types in certain entries, the program might produce an error when it trying to compare this type of entries. (The data type of  `Customer ID.` `Account No.`, `Currency`, `Type` is String and `Balance` is Integer.)
 
