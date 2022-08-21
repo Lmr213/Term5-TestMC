@@ -9,4 +9,5 @@ Bug: Based on my test cases, there is no bug found in her code.
 ## Kevin Richan’s code:
 Bug: Based on my test cases, there is no bug found in his code.
 
-**The test case files i used are also from week9csv folder. And I modified some function’s name of my teammates code when I am testing their code for easier testing(unify some functions name) eg: read_csv_file_xxx() where xxx is the name of my teammate**
+
+**Note: The test case files i used are also from week9csv folder. And I modified some function’s name of my teammates code when I am testing their code for easier testing(unify some functions name) eg: read_csv_file_xxx() where xxx is the name of my teammate**
